@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/rift-root-logo.svg" width="160" alt="Rift Root" /></p>
+
 ## Rift Root LLC
 
 Sovereign AI execution infrastructure for environments that resist it.
